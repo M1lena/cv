@@ -12,12 +12,9 @@ Built Gym Buddy, an app to help find workout partners based on fitness levels an
 - [Gym Buddy](https://gympal.herokuapp.com/)
 
 Built native iOS app, “Makers Academy Visitors.” Makers Academy team officially adopted the app. This app was final project built in 12 days by 4-person team.
--  [Makers Academy Visitors App](goo.gl/xN6MlD)
+- [Makers Academy Visitors App](goo.gl/xN6MlD)
 
-
-####JavaScript
-
-Built applications with Node, JavaScript, and JQuery; tested with Jasmine.
+First week of learning JavaScript: built application with Node, JavaScript, and JQuery; tested with Jasmine.
 - [Thermostat Interface](https://github.com/M1lena/Thermostat_Interface) with local weather API
 
 ##Education
