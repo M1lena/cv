@@ -20,14 +20,14 @@ First week of learning JavaScript: built application with Node, JavaScript, and 
 ##Education
 
 ####Makers Academy (3/2015 -- 6/2015)
-
+London, UK
 - OOP, SOLID principles
 - TDD/BDD
 - Software Craftsmanship, MVC, MVW*
 - Agile
 
 ####Wayne Statue University (5/2009 -- 5/2011)
-##Detroit, MI, USA
+Detroit, MI, USA
 - Bachelor's of Arts, Mathematics
 - Courses: graduate-level Optimization Methods, Mathematical Models in Operations Research
 
