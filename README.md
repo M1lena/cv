@@ -35,4 +35,5 @@ Coursework includes:
 ##Experience
 
 **BMK Solutions** (4/2011 -- 5/2015)
+
 BMK builds custom applications for global OEM clients.
