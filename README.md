@@ -8,10 +8,10 @@ Previous experience includes managing development lifecycle for custom-built B2B
 
 ####Full-stack Software Development
 
-Built native iOS app, “Makers Academy Visitors.” Makers Academy team officially adopted the app. This app was built in 12 days, as a final project, by a 4-person team with aboslutely no previous experience in Swift.
+Built native iOS app, “Makers Academy Visitors.” Makers Academy team officially adopted the app. This app was built in 12 days, as a final project, by a 4-person team with aboslutely no prior experience with Swift.
 - [Makers Academy Visitors App](goo.gl/xN6MlD)
 
-Built Gym Buddy, an app to help find workout partners based on fitness levels and preferred workouts. This is a test-driven Ruby on Rails app built entirely during 2-day hackathon by a 4-person team.
+Built Gym Buddy, an app to help find workout partners based on filters such as fitness levels and preferred workouts. This is a test-driven Ruby on Rails app built entirely during 2-day hackathon by a 4-person team.
 - [Gym Buddy](https://gympal.herokuapp.com/)
 
 First week of learning JavaScript: built application with Node, JavaScript, and JQuery; tested with Jasmine.
