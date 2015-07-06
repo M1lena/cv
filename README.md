@@ -30,7 +30,7 @@ First week of learning JavaScript: built application with Node, JavaScript, and 
 **Bachelor's of Arts, Mathematics**
 
 Coursework includes:
-- Graduate-level Optimization Methods
+- Optimization Methods (graduate level)
 - Mathematical Models in Operations Research
 
 ##Experience
