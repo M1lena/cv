@@ -37,3 +37,7 @@ Coursework includes:
 **BMK Solutions** (4/2011 -- 5/2015)
 
 BMK builds custom applications for global OEM clients.
+
+- Worked with development and business teams to successfully deliver global applications.
+- Translated business requirements to technical requirements.
+- Created wireframes and mock-ups.
