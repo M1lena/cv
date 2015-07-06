@@ -4,7 +4,7 @@ I am an avid skier, a foodie, and a coding newbie. As of June 2015, I have succe
 
 Previous experience includes managing development lifecycle for custom-built B2B and B2C applications for a Fortune 10 company's markets in North America, Europe, and Australia.
 
-##Skills
+###SKILLS
 
 ####Full-stack Software Development
 
@@ -17,7 +17,7 @@ Built Gym Buddy, an app to help find workout partners based on filters such as f
 First week of learning JavaScript: built application with Node, JavaScript, and JQuery; tested with Jasmine.
 - [Thermostat Interface](https://github.com/M1lena/Thermostat_Interface) with [Open Weather API](http://openweathermap.org/api)
 
-##Education
+###EDUCATION
 
 ####Makers Academy (3/2015 -- 6/2015)
 **Full-stack Software Development Bootcamp**
@@ -33,7 +33,7 @@ Coursework includes:
 - Optimization Methods (graduate level)
 - Mathematical Models in Operations Research
 
-##Experience
+###EXPERIENCE
 
 **BMK Solutions** (4/2011 -- 5/2015)
 
