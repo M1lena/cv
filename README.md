@@ -1,6 +1,6 @@
 ##Milena Stoeva
 
-I am an avid skier, a foodie, and a coding newbie. As of June 2015, I have successfully completed Makers Academy, a 12-week, immersive, full-time coding bootcamp, learning best practices in TDD/BDD, agile development, and software design. I'm interested in working within a team to help organizations find the best solutions to their problems using technology.
+I am an avid skier, a foodie, and a coding newbie. As of June 2015, I have successfully completed Makers Academy, a 12-week, immersive, full-time coding bootcamp, learning best practices in TDD/BDD, agile development, and software design. I'm interested in working within a team to help organizations find the best solutions to their problems, using technology.
 
 Previous experience includes managing development lifecycle for custom-built B2B and B2C applications for a Fortune 10 company's markets in North America, Europe, and Australia.
 
