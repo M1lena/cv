@@ -15,7 +15,7 @@ Built Gym Buddy, an app to help find workout partners based on filters such as f
 - [Gym Buddy](https://gympal.herokuapp.com/)
 
 First week of learning JavaScript: built application with Node, JavaScript, and JQuery; tested with Jasmine.
-- [Thermostat Interface](https://github.com/M1lena/Thermostat_Interface) with Open Weather API
+- [Thermostat Interface](https://github.com/M1lena/Thermostat_Interface) with [Open Weather API](http://openweathermap.org/api)
 
 ##Education
 
