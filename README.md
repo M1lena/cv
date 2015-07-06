@@ -28,6 +28,7 @@ First week of learning JavaScript: built application with Node, JavaScript, and 
 
 ####Wayne Statue University (5/2009 -- 5/2011)
 **Bachelor's of Arts, Mathematics**
+
 Coursework includes:
 - Graduate-level Optimization Methods
 - Mathematical Models in Operations Research
