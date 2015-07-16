@@ -23,7 +23,7 @@ First week of learning JavaScript: built application with Node, JavaScript, and 
 **Full-stack Software Development Bootcamp**
 - OOP, SOLID principles
 - TDD/BDD
-- Software Craftsmanship, MVC, MVW*
+- Software Craftsmanship: MVC, MVW*
 - Agile
 
 ####Wayne Statue University (5/2009 -- 5/2011)
